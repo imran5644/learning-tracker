@@ -40,7 +40,7 @@ This project was created with webpack=react flag from rails.
 1. Clone the project to your local directory
 
 ```
- git clone 
+ git clone https://github.com/imran5644/learning-tracker.git
 ```
 
 2. Get in to the folder app
@@ -87,7 +87,6 @@ rspec
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/men32z/learning-tracker-app/issues).
 
 ## Show your support
 
